@@ -1,0 +1,24 @@
+{
+  "name": "tag",
+  "version": "0.1.0",
+  "main": "dist/tag.js",
+  "ignore": [
+    ".gitignore",
+    "test",
+    "karma.conf.js",
+    "lib",
+    "Brocfile.js",
+    "package.json"
+  ],
+  "homepage": "https://github.com/a-tarasyuk/tag",
+  "_release": "0.1.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.1.0",
+    "commit": "3b4829de7e1ee716ccac9785fbd90a90359a7ef2"
+  },
+  "_source": "git://github.com/a-tarasyuk/tag.git",
+  "_target": "~0.1.0",
+  "_originalSource": "tag",
+  "_direct": true
+}
